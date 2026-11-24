@@ -1,4 +1,4 @@
 # first-repository---demo
 This is my first Git repository
 <br>
-Author - Vandit tare (IIST)
+Author - Vandit tare 
